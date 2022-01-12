@@ -1,4 +1,4 @@
-function sayHello() {
+const sayHello = (name) => {
   // Zaimplementuj zadanie zgodnie z wytycznymi
 };
 
